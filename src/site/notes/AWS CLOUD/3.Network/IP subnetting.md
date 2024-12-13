@@ -150,11 +150,11 @@ The **number after the slash** (e.g., `/24`) tells how many bits in the subnet m
     - Usable IPs = 256−2=254256 - 2 = 254 (excluding network and broadcast addresses).
 ### Examples of CIDR Notation and Subnets:
 
-|CIDR Notation|Subnet Mask|Total IPs|Usable IPs|Network Size|
-|---|---|---|---|---|
-|**/24**|255.255.255.0|256|254|Single Class C|
-|**/16**|255.255.0.0|65,536|65,534|Large networks|
-|**/30**|255.255.255.252|4|2|Point-to-point|
+| CIDR Notation | Subnet Mask     | Total IPs | Usable IPs | Network Size   |
+| ------------- | --------------- | --------- | ---------- | -------------- |
+| **/24**       | 255.255.255.0   | 256       | 254        | Single Class C |
+| **/16**       | 255.255.0.0     | 65,536    | 65,534     | Large networks |
+| **/30**       | 255.255.255.252 | 4         | 2          | Point-to-point |
 
 ### TL;DR:
 
@@ -198,5 +198,7 @@ The **number after the slash** (e.g., `/24`) tells how many bits in the subnet m
 > ### Why So Many IPs?
 > 
 > The **/16 subnet** is large because it allocates 16 bits for hosts, meaning 65,536 possible IPs. This is suitable for organizations or large networks needing many addresses.
+
+
 
 ![](/img/user/AWS CLOUD/3.Network/attachments/Pasted image 20241209143131.png)
