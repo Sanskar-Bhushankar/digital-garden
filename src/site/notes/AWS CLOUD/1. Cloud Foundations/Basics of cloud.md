@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aws-cloud/1-cloud-foundations/basics-of-cloud/","created":"2024-12-02T16:44:08.597+05:30"}
+{"dg-publish":true,"permalink":"/AWS CLOUD/1. Cloud Foundations/Basics of cloud/","created":"2024-12-02T16:44:08.597+05:30"}
 ---
 
 

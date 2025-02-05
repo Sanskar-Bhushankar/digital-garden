@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/machine-learning/0-topics/","created":"2024-10-30T12:48:11.040+05:30"}
+{"dg-publish":true,"permalink":"/Notes/Machine Learning/0Topics/","created":"2024-10-30T12:48:11.040+05:30"}
 ---
 
 

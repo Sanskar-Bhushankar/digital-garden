@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aws-cloud/3-network/ip-subnetting/","tags":["aws","networking"],"created":"2024-12-06T17:51:14.191+05:30"}
+{"dg-publish":true,"permalink":"/AWS CLOUD/3.Network/IP subnetting/","tags":["aws","networking"],"created":"2024-12-06T17:51:14.191+05:30"}
 ---
 
 #### Ip Address

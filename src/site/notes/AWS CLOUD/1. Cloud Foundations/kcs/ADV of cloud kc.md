@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aws-cloud/1-cloud-foundations/kcs/adv-of-cloud-kc/","created":"2024-12-03T15:29:32.300+05:30"}
+{"dg-publish":true,"permalink":"/AWS CLOUD/1. Cloud Foundations/kcs/ADV of cloud kc/","created":"2024-12-03T15:29:32.300+05:30"}
 ---
 
 

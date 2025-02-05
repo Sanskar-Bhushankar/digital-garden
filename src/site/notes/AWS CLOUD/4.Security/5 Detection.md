@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aws-cloud/4-security/5-detection/","title":"AWS Security Detection","tags":["aws","security","detection"],"created":"2024-12-13T17:42:16.365+05:30"}
+{"dg-publish":true,"permalink":"/AWS CLOUD/4.Security/5 Detection/","title":"AWS Security Detection","tags":["aws","security","detection"],"created":"2024-12-13T17:42:16.365+05:30"}
 ---
 
 one short security - [aws security - last min rev](../aws%20security%20-%20last%20min%20rev.md)

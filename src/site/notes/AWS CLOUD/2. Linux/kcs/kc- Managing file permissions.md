@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aws-cloud/2-linux/kcs/kc-managing-file-permissions/","created":"2024-12-03T16:17:25.947+05:30"}
+{"dg-publish":true,"permalink":"/AWS CLOUD/2. Linux/kcs/kc- Managing file permissions/","created":"2024-12-03T16:17:25.947+05:30"}
 ---
 
 

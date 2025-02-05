@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/git-tutorial-to-copy-branch/","created":"2024-10-25T22:24:25.511+05:30"}
+{"dg-publish":true,"permalink":"/Notes/GIT Tutorial to copy branch/","created":"2024-10-25T22:24:25.511+05:30"}
 ---
 
 

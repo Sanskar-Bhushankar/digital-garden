@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aws-databases-services/","title":"AWS Databases Services","tags":["aws","databases","aurora","aws-database-services"],"created":"2024-12-19T16:04:02.732+05:30"}
+{"dg-publish":true,"permalink":"/AWS Databases Services/","title":"AWS Databases Services","tags":["aws","databases","aurora","aws-database-services"],"created":"2024-12-19T16:04:02.732+05:30"}
 ---
 
 # Exploring Amazon Database Services: A Comprehensive Guide

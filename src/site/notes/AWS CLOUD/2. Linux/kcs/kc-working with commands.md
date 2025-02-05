@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aws-cloud/2-linux/kcs/kc-working-with-commands/","created":"2024-12-03T16:27:45.830+05:30"}
+{"dg-publish":true,"permalink":"/AWS CLOUD/2. Linux/kcs/kc-working with commands/","created":"2024-12-03T16:27:45.830+05:30"}
 ---
 
 

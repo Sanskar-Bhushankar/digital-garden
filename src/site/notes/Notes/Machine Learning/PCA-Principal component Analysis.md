@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/machine-learning/pca-principal-component-analysis/","created":"2024-11-09T21:15:38.523+05:30"}
+{"dg-publish":true,"permalink":"/Notes/Machine Learning/PCA-Principal component Analysis/","created":"2024-11-09T21:15:38.523+05:30"}
 ---
 
 

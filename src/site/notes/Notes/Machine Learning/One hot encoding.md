@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/machine-learning/one-hot-encoding/","created":"2024-11-10T16:49:50.284+05:30"}
+{"dg-publish":true,"permalink":"/Notes/Machine Learning/One hot encoding/","created":"2024-11-10T16:49:50.284+05:30"}
 ---
 
 

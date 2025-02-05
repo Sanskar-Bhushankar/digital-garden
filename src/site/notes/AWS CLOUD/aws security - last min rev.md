@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aws-cloud/aws-security-last-min-rev/","title":"aws security - last min rev","tags":["aws-security-oneshot","aws","security"],"created":"2025-02-02T16:32:08.884+05:30"}
+{"dg-publish":true,"permalink":"/AWS CLOUD/aws security - last min rev/","title":"aws security - last min rev","tags":["aws-security-oneshot","aws","security"],"created":"2025-02-02T16:32:08.884+05:30"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aws-cloud/2-linux/kcs/kc-working-with-the-file-system/","created":"2024-12-03T15:52:23.409+05:30"}
+{"dg-publish":true,"permalink":"/AWS CLOUD/2. Linux/kcs/KC - Working with the File System/","created":"2024-12-03T15:52:23.409+05:30"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/machine-learning/standard-scaling/","created":"2024-11-10T16:53:14.253+05:30"}
+{"dg-publish":true,"permalink":"/Notes/Machine Learning/Standard scaling/","created":"2024-11-10T16:53:14.253+05:30"}
 ---
 
 
