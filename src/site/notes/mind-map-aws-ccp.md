@@ -11,8 +11,8 @@
 }
 #mindmap {
   display: block;
-  width: 70vw;
-  height: 80vh;
+  width: 100%;
+  height: 100%;
 }
 </style>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.15.4/dist/style.css">
