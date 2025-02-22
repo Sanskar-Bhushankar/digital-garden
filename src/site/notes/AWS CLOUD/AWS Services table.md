@@ -48,6 +48,10 @@
 |**AWS Cost and Usage Report**|Detailed reports on your AWS usage and associated costs.|In-depth cost analysis and chargeback reporting.|
 |**AWS Cost Explorer**|Visual interface to explore, analyze, and manage your AWS spending.|Identifying cost trends and potential savings.|
 |**AWS Marketplace**|Digital catalog offering third‑party software and services for AWS.|Procuring vetted applications and software licenses.|
+- **Use AWS Budgets** to get alerts when you exceed spending limits.
+- **Use AWS Cost Explorer** for visual trends and forecasting.
+- **Use AWS Cost and Usage Report** for **detailed** cost tracking (ideal for finance teams).
+- **Use AWS Billing Conductor** for **custom billing setups** in multi-account organizations.
 
 ---
 
