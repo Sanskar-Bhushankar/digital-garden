@@ -67,6 +67,13 @@
 |**AWS Outposts**|Fully managed AWS infrastructure delivered on-premises for a hybrid cloud setup.|Running AWS services in local data centers or on-premises environments.|
 |**AWS Wavelength**|Brings AWS compute and storage services to the edge of telecom networks for ultra-low latency.|Mobile gaming and AR/VR applications with minimal latency.|
 
+### **Key Difference**
+
+- **Local Zones** = Mini AWS regions **with compute and storage** closer to users.
+- **Edge Locations** = **Only for content caching and network acceleration** (no compute).
+- **Elastic Beanstalk** = Fully managed **PaaS** for deploying scalable apps.
+- **Lightsail** = Simple **VPS** with fixed pricing for basic hosting needs.
+
 ---
 
 ## Containers
