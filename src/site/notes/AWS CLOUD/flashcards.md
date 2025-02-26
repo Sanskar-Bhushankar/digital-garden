@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/AWS CLOUD/flashcards/","title":"AWS Flashcards","created":"2025-02-21T15:53:26.922+05:30"}
 ---
 
-
+- **34 regions**
+- **113 availability zones**
+- **500 edge locations (POPs)**
 - Auto scaling grp manages the number of instances wheareas elastic load balancing distributes the traffic across them
 - High economies of scale** means **reducing costs as the scale of operations increases**. (Means aws continiously tries to lower the costs of its services)
 
@@ -111,3 +113,35 @@
 **Key Difference**: ECS (with EC2) gives more control over instances, while Fargate is fully managed and abstracts the infrastructure.
 
 ---
+# Trusted advisor 
+- ==Detects security risks like open access permissions in S3 buckets, IAM policies, or security groups.==
+### **Use Cases**
+1. **Cost Reduction**: Identifies unused EC2 instances, unattached EBS volumes, and suggests savings.
+2. **Security Improvement**: Alerts on publicly accessible S3 buckets, weak IAM roles, and missing MFA.
+3. **Scaling Applications**: Helps ensure infrastructure can handle workload increases.
+4. **Disaster Recovery Readiness**: Checks for backups, Multi-AZ databases, and Auto Scaling configurations.
+5. **Compliance Monitoring**: Helps maintain security compliance by enforcing best practices.
+
+---
+
+## When to Use Each Service: A Quick-Reference Guide
+
+| **Scenario**                                                       | **Service(s)**         | **Why?**                                                                           |
+| ------------------------------------------------------------------ | ---------------------- | ---------------------------------------------------------------------------------- |
+| **Audit who made changes or deleted a resource.**                  | CloudTrail, AWS Config | CloudTrail logs API calls; AWS Config tracks configuration changes.                |
+| **Monitor performance metrics (CPU, latency, error rates).**       | CloudWatch             | CloudWatch collects real‑time metrics and logs.                                    |
+| **Track configuration changes over time (e.g., security groups).** | AWS Config             | AWS Config records historical configuration data.                                  |
+| **Run vulnerability assessments on instances.**                    | Inspector              | Inspector scans for vulnerabilities and deviations from security best practices.   |
+| **Aggregate and correlate security alerts from multiple sources.** | Security Hub           | Security Hub provides a consolidated security view.                                |
+| **Trace requests through a microservices architecture.**           | X‑Ray                  | X‑Ray provides end‑to‑end request tracing and identifies bottlenecks.              |
+| **Detect anomalous activity, such as suspicious API calls          | GuardDuty              | GuardDuty analyzes logs and identifies security threats based on unusual behavior. |
+
+- Understand that:
+    
+    - **CloudTrail** is for API call logs.
+    - **CloudWatch** is for performance metrics and log collection.
+    - **AWS Config** is for configuration history and compliance.
+    - **Inspector** is for vulnerability scanning.
+    - **Security Hub** is for centralized security findings.
+    - **X‑Ray** is for distributed tracing.
+    - **GuardDuty** is for threat detection and security anomaly monitoring.
