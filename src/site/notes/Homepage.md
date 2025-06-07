@@ -24,7 +24,7 @@ I am a **digital craftsman**, building my own version of the digital world, one 
 
 [[AWS CLOUD/1. Cloud Foundations/Basics of cloud\|Basics of cloud]]
 [[AWS CLOUD/1. Cloud Foundations/00. Table of contents\|00. Table of contents]]
-
+[GIT Tutorial to copy branch](Notes/GIT%20Tutorial%20to%20copy%20branch.md)
 ### My AWs Notes Table
 
 | AWS Foundations                      | AWS Networking             | Linux                            | Networking                                                                      |
@@ -36,6 +36,18 @@ I am a **digital craftsman**, building my own version of the digital world, one 
 | [[AWS CLOUD/1. Cloud Foundations/3. AWS S3 and EC2\|3. AWS S3 and EC2]]                |                            | [[AWS CLOUD/2. Linux/putty lab\|putty lab]]                    | [[AWS CLOUD/3.Network/IP subnetting\|IP subnetting]]                                                               |
 |                                      |                            |                                  |                                                                                 |
 
+## Recent notes
+[1 React basics](Notes/WEB/React/1%20React%20basics.md)
+[Project 1- Seat Booking](Notes/WEB/React/Project%201-%20Seat%20Booking.md)
+[ROUTER](Notes/WEB/React/ROUTER.md)
+
+| React-AppWrite-Blog                                                                         | React                                                                               |     |     |
+| ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --- | --- |
+| [1. Dependencies](Appwrite-React-Blog/1.%20Dependencies.md)                                 | [1. Passing props as children](Notes/React/1.%20Passing%20props%20as%20children.md) |     |     |
+| [2. AppWrite](Appwrite-React-Blog/2.%20AppWrite.md)                                         | [2. State lifting](Notes/React/2.%20State%20lifting.md)                             |     |     |
+| [3. Appwrite -DB, file upload](Appwrite-React-Blog/3.%20Appwrite%20-DB,%20file%20upload.md) | [3. UseEffect](Notes/React/3.%20UseEffect.md)                                       |     |     |
+|                                                                                             | [5. Context API](Notes/React/5.%20Context%20API.md)                                 |     |     |
+[Power Bi](Power%20Bi.md)
 
 ## Growth of 2024 From sem 1 MSc Data Science
 (This data is of from 2nd august 2024 - 17 december 2024)
