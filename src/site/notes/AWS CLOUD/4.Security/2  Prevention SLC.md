@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/AWS CLOUD/4.Security/2  Prevention SLC/","created":"2024-12-11T17:36:55.708+05:30"}
+{"date":null,"dg-publish":true,"tags":null,"title":null,"streak":true,"permalink":"/aws-cloud/4-security/2-prevention-slc/","dgPassFrontmatter":true,"dg-note-properties":{"date":null,"tags":null,"title":null,"streak":true}}
 ---
 
 one short security - [aws security - last min rev](../aws%20security%20-%20last%20min%20rev.md)
 ## Prevention in security Lifecycle
 
-![](/img/user/AWS CLOUD/4.Security/attachments/Pasted image 20241211173920.png)
+![](/img/user/AWS%20CLOUD/4.Security/attachments/Pasted%20image%2020241211173920.png)
 
 1. Prevention
 	- Stopping the threat before it occus
@@ -46,7 +46,7 @@ Resources in AWS refer to virtual servers, databases, storage, and other compone
 
 ### AWS System Manager Inventory Function ss
 
-![](/img/user/AWS CLOUD/4.Security/attachments/Pasted image 20241211180756.png)
+![](/img/user/AWS%20CLOUD/4.Security/attachments/Pasted%20image%2020241211180756.png)
 
 The AWS Systems Manager inventory function offers centralized management, detailed instance inventory, automation for tasks like software and patch management, enhanced security through up-to-date instance information, and operational insights for improved efficiency within AWS environments.
 
@@ -65,11 +65,11 @@ The AWS Systems Manager inventory function offers centralized management, detail
 	- CVE lists publicly disclosed cybersecurity vulnerabilities.
 	- Helps in identifying and addressing security weaknesses using automated tools like scanners.
 
-![](/img/user/AWS CLOUD/4.Security/attachments/Pasted image 20241211182210.png)
+![](/img/user/AWS%20CLOUD/4.Security/attachments/Pasted%20image%2020241211182210.png)
 
 ### 3. Prevention strategy
 
-![](/img/user/AWS CLOUD/4.Security/attachments/Pasted image 20241211183008.png)
+![](/img/user/AWS%20CLOUD/4.Security/attachments/Pasted%20image%2020241211183008.png)
 1. **Layered Security Model**:
 	  - Uses multiple layers for defense.
 	  - Includes: Perimeter, Network, Endpoint, Application, Data security.
@@ -79,7 +79,7 @@ The AWS Systems Manager inventory function offers centralized management, detail
 		  - Examples: Firewalls for perimeter security, ACLs for network security, antivirus for endpoint security, specialized tools for application and data security.
 
 	- Castle Eample
-	- ![](/img/user/AWS CLOUD/4.Security/attachments/Pasted image 20241211183335.png)
+	- ![](/img/user/AWS%20CLOUD/4.Security/attachments/Pasted%20image%2020241211183335.png)
 		- Layers: Moat, Outer wall, Inner wall, Keep.
 		- Each layer must be breached for attackers to reach assets.
 		- Analogous to layered defenses in systems for increased security.
@@ -98,7 +98,7 @@ The AWS Systems Manager inventory function offers centralized management, detail
 
 
 ## Types of prevention measures (Onion layers)
-![](/img/user/AWS CLOUD/4.Security/attachments/Pasted image 20241211184141.png)
+![](/img/user/AWS%20CLOUD/4.Security/attachments/Pasted%20image%2020241211184141.png)
 
 - **Network Hardening**: Strengthen network security by blocking exploration protocols, closing unused ports, and maintaining an updated asset inventory. Use firewalls and segmentation for added protection.
     
@@ -109,7 +109,7 @@ The AWS Systems Manager inventory function offers centralized management, detail
 - **Identity Management**: Control access with the principle of least privilege, enforce strong password policies, and implement authentication, authorization, and accounting (AAA) principles for auditing and security.
 
 
-![](/img/user/AWS CLOUD/4.Security/attachments/Pasted image 20241211184230.png)
+![](/img/user/AWS%20CLOUD/4.Security/attachments/Pasted%20image%2020241211184230.png)
 
-![](/img/user/AWS CLOUD/4.Security/attachments/Pasted image 20241211184306.png)
+![](/img/user/AWS%20CLOUD/4.Security/attachments/Pasted%20image%2020241211184306.png)
 

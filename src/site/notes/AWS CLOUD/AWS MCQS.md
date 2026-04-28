@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AWS CLOUD/AWS MCQS/","created":"2025-01-27T00:11:36.869+05:30"}
+{"date":null,"dg-publish":true,"tags":null,"title":null,"permalink":"/aws-cloud/aws-mcqs/","dgPassFrontmatter":true,"dg-note-properties":{"date":null,"tags":null,"title":null}}
 ---
 
 # AWS-Cloud-Practitioner-Practice-Questions-Answers

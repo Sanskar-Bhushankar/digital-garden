@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/WEB/React/ROUTER/","created":"2025-02-11T16:25:55.342+05:30"}
+{"dg-publish":true,"permalink":"/notes/web/react/router/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 
@@ -106,7 +106,7 @@ export default Navbar
 
 ## Output
 
-![](/img/user/Notes/WEB/React/attachments/Pasted image 20250104214433.png)
+![](/img/user/Notes/WEB/React/attachments/Pasted%20image%2020250104214433.png)
 
 
 # useParams
@@ -150,7 +150,7 @@ export default Paramsid
 ```
 
 ## output
-![](/img/user/Notes/WEB/React/attachments/Pasted image 20250104233332.png)
+![](/img/user/Notes/WEB/React/attachments/Pasted%20image%2020250104233332.png)
 
 
 ## Route PARAMETER
@@ -163,7 +163,7 @@ export default Paramsid
 
 ## Use navigation hook in button to use this with button
 
-![](/img/user/Notes/WEB/React/attachments/Pasted image 20250104233715.png)
+![](/img/user/Notes/WEB/React/attachments/Pasted%20image%2020250104233715.png)
 
 ## to make herircical routes like /student/courses 
 

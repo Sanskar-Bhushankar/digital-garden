@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/WEB/React/1 React basics/","created":"2024-12-30T20:40:42.580+05:30"}
+{"dg-publish":true,"permalink":"/notes/web/react/1-react-basics/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 
@@ -155,13 +155,13 @@ Both work the same because JSX is transpiled to JavaScript in both CRA and Vite.
 so in react we use the concept of dom (document object model) It represents the structure of an HTML document as a tree of objects
 where each component is object of a tree where when we build a react app the react compares the reactdom with the browser dom and changes only the required particular parts of the web page without reloading the webpage
 In React we have react dom and we have only one html div which is `root`
-![](/img/user/Notes/WEB/React/attachments/Pasted image 20241231134702.png)
+![](/img/user/Notes/WEB/React/attachments/Pasted%20image%2020241231134702.png)
 
 there are 2 main files in react one is app.jsx and main.jsx we write all the code in app.jsx which is inside function App() where is return and render all the html 
-![](/img/user/Notes/WEB/React/attachments/Pasted image 20241231134811.png)
+![](/img/user/Notes/WEB/React/attachments/Pasted%20image%2020241231134811.png)
 
 But the App function  is nothing but the dom the div which is called by react which contains the root div which is in the main.jsx
-![](/img/user/Notes/WEB/React/attachments/Pasted image 20241231135104.png)
+![](/img/user/Notes/WEB/React/attachments/Pasted%20image%2020241231135104.png)
 
 **ReactDOM** is a library in React that bridges React components with the actual DOM. It provides methods to render React elements into the DOM and manage updates efficiently.
 
@@ -197,10 +197,10 @@ ReactDOM.render(
  We can write the html or the return <> </ > in the main.jsx but it wouldnt be considered as best practices of react of keeping the code modular, maintainable, and organized.
  In React the main.jsx is considered as the entry point of the dom in html
 See the main.jsx file 
-![](/img/user/Notes/WEB/React/attachments/Pasted image 20241231140202.png)
+![](/img/user/Notes/WEB/React/attachments/Pasted%20image%2020241231140202.png)
  it just calls the dom `root` and renders the <App/> function we wrote in app.jsx 
  now see the index.html
- ![](/img/user/Notes/WEB/React/attachments/Pasted image 20241231140305.png)
+ ![](/img/user/Notes/WEB/React/attachments/Pasted%20image%2020241231140305.png)
  Here the < script > tag is calling the main.jsx to render the components and not the app.jsx 
  Its just the best practice to keep the dom entry point and the html return code different we can call the app.jsx in here to by calling the dom in the app.jsx 
  `createRoot(document.getElementById('root')).render`

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AWS CLOUD/4.Security/AWS config/","created":"2024-12-13T18:57:25.250+05:30"}
+{"date":null,"dg-publish":true,"tags":null,"title":null,"permalink":"/aws-cloud/4-security/aws-config/","dgPassFrontmatter":true,"dg-note-properties":{"date":null,"tags":null,"title":null}}
 ---
 
 one short security - [aws security - last min rev](../aws%20security%20-%20last%20min%20rev.md)

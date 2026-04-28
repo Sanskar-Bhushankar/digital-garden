@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AWS CLOUD/3.Network/IP subnetting/","tags":["aws","networking"],"created":"2024-12-06T17:51:14.191+05:30"}
+{"date":"6-12-2024","dg-publish":true,"tags":["aws","networking"],"permalink":"/aws-cloud/3-network/ip-subnetting/","dgPassFrontmatter":true,"dg-note-properties":{"date":"6-12-2024","tags":["aws","networking"]}}
 ---
 
 #### Ip Address
@@ -201,4 +201,4 @@ The **number after the slash** (e.g., `/24`) tells how many bits in the subnet m
 
 
 
-![](/img/user/AWS CLOUD/3.Network/attachments/Pasted image 20241209143131.png)
+![](/img/user/AWS%20CLOUD/3.Network/attachments/Pasted%20image%2020241209143131.png)

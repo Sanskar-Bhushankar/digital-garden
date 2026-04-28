@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AWS CLOUD/flashcards/","title":"AWS Flashcards","created":"2025-02-21T15:53:26.922+05:30"}
+{"date":"21-2-2025","title":"AWS Flashcards","dg-publish":true,"permalink":"/aws-cloud/flashcards/","dgPassFrontmatter":true,"dg-note-properties":{"date":"21-2-2025","title":"AWS Flashcards"}}
 ---
 
 - **34 regions**

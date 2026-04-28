@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AWS CLOUD/9. Tooling and automation/Tooling and automation/","title":"Tooling and automation (systems manager, cloud formation, Ops works)","tags":["aws-systems-manager","aws-ops-works","aws-cloudformation"],"created":"2025-02-19T13:03:44.135+05:30"}
+{"date":"19-2-2025","dg-publish":true,"tags":["aws-systems-manager","aws-ops-works","aws-cloudformation"],"title":"Tooling and automation (systems manager, cloud formation, Ops works)","permalink":"/aws-cloud/9-tooling-and-automation/tooling-and-automation/","dgPassFrontmatter":true,"dg-note-properties":{"date":"19-2-2025","tags":["aws-systems-manager","aws-ops-works","aws-cloudformation"],"title":"Tooling and automation (systems manager, cloud formation, Ops works)"}}
 ---
 
 ## AWS Systems Manager

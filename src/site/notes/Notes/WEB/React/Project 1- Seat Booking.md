@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/WEB/React/Project 1- Seat Booking/","created":"2025-02-11T16:26:39.080+05:30"}
+{"dg-publish":true,"permalink":"/notes/web/react/project-1-seat-booking/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 
@@ -91,7 +91,7 @@ The condition `if (!seats[index])` works as follows:
 - **Line 9**: We create a shallow copy of the `seats` array (using the spread operator `...`). This is necessary because React requires us to treat the state as immutable, meaning we can't directly modify the state. So, we create a new array to modify.
 
 ## output
-![](/img/user/Notes/WEB/React/attachments/Pasted image 20250105033633.png)
+![](/img/user/Notes/WEB/React/attachments/Pasted%20image%2020250105033633.png)
 
 
 # connecting to sql in backend using mysql2

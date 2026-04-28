@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AWS CLOUD/AWS Databases Services/","title":"AWS Databases Services","tags":["aws","databases","aurora","aws-database-services"],"created":"2024-12-19T16:04:02.732+05:30"}
+{"date":"19-12-2024","tags":["aws","databases","aurora","aws-database-services"],"dg-publish":true,"title":"AWS Databases Services","permalink":"/aws-cloud/aws-databases-services/","dgPassFrontmatter":true,"dg-note-properties":{"date":"19-12-2024","tags":["aws","databases","aurora","aws-database-services"],"title":"AWS Databases Services"}}
 ---
 
 # Exploring Amazon Database Services: A Comprehensive Guide

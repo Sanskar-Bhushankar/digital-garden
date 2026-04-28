@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AWS CLOUD/aws security - last min rev/","title":"aws security - last min rev","tags":["aws-security-oneshot","aws","security"],"created":"2025-02-02T16:32:08.884+05:30"}
+{"date":"2-2-2025","tags":["aws-security-oneshot","aws","security"],"dg-publish":true,"title":"aws security - last min rev","permalink":"/aws-cloud/aws-security-last-min-rev/","dgPassFrontmatter":true,"dg-note-properties":{"date":"2-2-2025","tags":["aws-security-oneshot","aws","security"],"title":"aws security - last min rev"}}
 ---
 
 
@@ -102,7 +102,7 @@ The AWS Systems Manager inventory function offers centralized management, detail
   - Establish **security baselines** to detect anomalies.
   - Use group policies for centralized control.
 
-![](/img/user/AWS CLOUD/attachments/Pasted image 20250202190751.png)
+![](/img/user/AWS%20CLOUD/attachments/Pasted%20image%2020250202190751.png)
 
 - **Types of Hardening**:
   - **Server Hardening**: Secure data, ports, and permissions.
@@ -150,7 +150,7 @@ The AWS Systems Manager inventory function offers centralized management, detail
 
 Public key infrastructure (PKI) is a collection of technologies that are used to apply cryptography principles to transfer information securely between two entities. It is based on a practical distribution and implementation of keys, with a set of tools to achieve confidentiality, integrity, non-repudiation, and authenticity
 
-![](/img/user/AWS CLOUD/attachments/Pasted image 20250202193157.png)
+![](/img/user/AWS%20CLOUD/attachments/Pasted%20image%2020250202193157.png)
 
 
 **Components:**

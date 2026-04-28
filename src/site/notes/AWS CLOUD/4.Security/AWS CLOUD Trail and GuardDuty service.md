@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AWS CLOUD/4.Security/AWS CLOUD Trail and GuardDuty service/","created":"2024-12-13T17:48:39.337+05:30"}
+{"date":null,"dg-publish":true,"tags":null,"title":null,"permalink":"/aws-cloud/4-security/aws-cloud-trail-and-guard-duty-service/","dgPassFrontmatter":true,"dg-note-properties":{"date":null,"tags":null,"title":null}}
 ---
 
 one short security - [aws security - last min rev](../aws%20security%20-%20last%20min%20rev.md)
@@ -30,6 +30,6 @@ integrate with amazon cloudwatch
 
 ## Guard duty Detection
 
-![](/img/user/AWS CLOUD/4.Security/attachments/Pasted image 20241213182126.png)
+![](/img/user/AWS%20CLOUD/4.Security/attachments/Pasted%20image%2020241213182126.png)
 
-![](/img/user/AWS CLOUD/4.Security/attachments/Pasted image 20241213183121.png)
+![](/img/user/AWS%20CLOUD/4.Security/attachments/Pasted%20image%2020241213183121.png)

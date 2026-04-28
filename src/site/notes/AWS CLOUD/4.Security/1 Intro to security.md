@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AWS CLOUD/4.Security/1 Intro to security/","created":"2024-12-09T19:28:22.645+05:30"}
+{"date":null,"dg-publish":true,"tags":null,"title":null,"sticker":"","banner_y":"57","permalink":"/aws-cloud/4-security/1-intro-to-security/","dgPassFrontmatter":true,"dg-note-properties":{"date":null,"tags":null,"title":null,"sticker":"","banner_y":"57"}}
 ---
 
 
@@ -28,7 +28,7 @@ The **CIA Triad** represents three core principles of information security:
 3. **Availability**: Ensures data and systems are accessible when needed.
 
 
-![](/img/user/AWS CLOUD/4.Security/attachments/Pasted image 20241209194022.png)
+![](/img/user/AWS%20CLOUD/4.Security/attachments/Pasted%20image%2020241209194022.png)
 
 ## Types of threats
 
@@ -57,13 +57,13 @@ The **CIA Triad** represents three core principles of information security:
 
 ##  Security controls
 
-![](/img/user/AWS CLOUD/3.Network/attachments/Pasted image 20241213230336.png)
+![](/img/user/AWS%20CLOUD/3.Network/attachments/Pasted%20image%2020241213230336.png)
 
 - **Physical Controls**: Directly protect physical assets, like card readers for building access.
 - **Administrative Controls**: Establish policies and procedures, such as requiring card swipes for access.
 - **Technical Controls**: Use software or technology, like antivirus programs, to monitor and protect against threats.
 
-![](/img/user/AWS CLOUD/3.Network/attachments/Pasted image 20241213230612.png)
+![](/img/user/AWS%20CLOUD/3.Network/attachments/Pasted%20image%2020241213230612.png)
 
 
 ### What is social engineering

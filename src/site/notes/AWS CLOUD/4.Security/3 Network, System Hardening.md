@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AWS CLOUD/4.Security/3 Network, System Hardening/","created":"2024-12-11T18:43:25.178+05:30"}
+{"date":null,"dg-publish":true,"tags":null,"title":null,"permalink":"/aws-cloud/4-security/3-network-system-hardening/","dgPassFrontmatter":true,"dg-note-properties":{"date":null,"tags":null,"title":null}}
 ---
 
 one short security - [aws security - last min rev](../aws%20security%20-%20last%20min%20rev.md)

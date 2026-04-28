@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Homepage/","tags":["gardenEntry"],"created":"2024-12-05T20:28:44.014+05:30"}
+{"dg-publish":true,"dg-home":true,"permalink":"/homepage/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
-
-
 
 ## Hi, I'm Sanskar Bhushankar
 
@@ -43,11 +41,25 @@ I am a **digital craftsman**, building my own version of the digital world, one 
 
 | React-AppWrite-Blog                                                                         | React                                                                               |     |     |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --- | --- |
-| [1. Dependencies](Appwrite-React-Blog/1.%20Dependencies.md)                                 | [1. Passing props as children](Notes/React/1.%20Passing%20props%20as%20children.md) |     |     |
-| [2. AppWrite](Appwrite-React-Blog/2.%20AppWrite.md)                                         | [2. State lifting](Notes/React/2.%20State%20lifting.md)                             |     |     |
-| [3. Appwrite -DB, file upload](Appwrite-React-Blog/3.%20Appwrite%20-DB,%20file%20upload.md) | [3. UseEffect](Notes/React/3.%20UseEffect.md)                                       |     |     |
+| [1. Dependencies](Projects/Appwrite-React-Blog/1.%20Dependencies.md)                                 | [1. Passing props as children](Notes/React/1.%20Passing%20props%20as%20children.md) |     |     |
+| [2. AppWrite](Projects/Appwrite-React-Blog/2.%20AppWrite.md)                                         | [2. State lifting](Notes/React/2.%20State%20lifting.md)                             |     |     |
+| [3. Appwrite -DB, file upload](Projects/Appwrite-React-Blog/3.%20Appwrite%20-DB,%20file%20upload.md) | [3. UseEffect](Notes/React/3.%20UseEffect.md)                                       |     |     |
 |                                                                                             | [4. Context API](Notes/React/4.%20Context%20API.md)                                 |     |     |
-[Power Bi](Power%20Bi.md)
+[Power Bi](Notes/oneshorts/Power%20Bi.md)
+
+---
+#### MSC DS PYQs (Mumbai UNi)
+
+##### sem 1
+
+| DV                                                                                                                                                                                                                                                               | Essentials of DS                                                                                                                                                                                                        | ET       | Reseach Methodology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [1. Unit 1](MSC%20DataScience/SEM%201/DV/1.%20Unit%201.md)<br><br>[2. Unit 2](MSC%20DataScience/SEM%201/DV/2.%20Unit%202.md)<br><br>[3. Unit 3](MSC%20DataScience/SEM%201/DV/3.%20Unit%203.md)<br><br>[4. Unit 4](MSC%20DataScience/SEM%201/DV/4.%20Unit%204.md) | [1. Unit 1](MSC%20DataScience/SEM%201/Essetials/1.%20Unit%201.md)<br><br>[2. Unit 2](MSC%20DataScience/SEM%201/Essetials/2.%20Unit%202.md)<br><br>[3. Unit 3](MSC%20DataScience/SEM%201/Essetials/3.%20Unit%203.md)<br> | all pdfs | [1A.](MSC%20DataScience/SEM%201/Research%20Methodology/1A..md)<br><br>[1B. Research Process and Ethics](MSC%20DataScience/SEM%201/Research%20Methodology/1B.%20Research%20Process%20and%20Ethics.md)<br><br>[1C. sampling techniques](MSC%20DataScience/SEM%201/Research%20Methodology/1C.%20sampling%20techniques.md)<br><br>[2A. Primary & Secondary Data Collection](MSC%20DataScience/SEM%201/Research%20Methodology/2A.%20Primary%20&%20Secondary%20Data%20Collection.md)<br><br>[2B. Data Collection Methods](MSC%20DataScience/SEM%201/Research%20Methodology/2B.%20Data%20Collection%20Methods.md)<br><br>[2C. Data preprocessing techniques](MSC%20DataScience/SEM%201/Research%20Methodology/2C.%20Data%20preprocessing%20techniques.md)<br><br>[3. Unit 3](MSC%20DataScience/SEM%201/Research%20Methodology/3.%20Unit%203.md)<br><br><br>[4.Structure of research paper Unit 4](MSC%20DataScience/SEM%201/Research%20Methodology/4.Structure%20of%20research%20paper%20Unit%204.md)<br> |
+
+
+| Spark | Stats |
+| ----- | ----- |
+|       |       |
 
 ## Growth of 2024 From sem 1 MSc Data Science
 (This data is of from 2nd august 2024 - 17 december 2024)

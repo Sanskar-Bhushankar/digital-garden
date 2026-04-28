@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AWS CLOUD/AWS Services table/","created":"2025-01-26T23:52:50.326+05:30"}
+{"dg-publish":true,"permalink":"/aws-cloud/aws-services-table/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # List of all the imp aws services in clf-02
