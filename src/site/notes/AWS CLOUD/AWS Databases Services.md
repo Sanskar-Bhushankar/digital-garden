@@ -304,5 +304,3 @@ In summary, partitions are a fundamental aspect of how DynamoDB stores and scale
 10. What type of database is Amazon Aurora compatible with?
     
     - Aurora is compatible with **MySQL** and **PostgreSQL**.
-
-
